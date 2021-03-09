@@ -30,4 +30,6 @@ d9fc3dbe-9782-41cb-ac74-7a9f7b0e5ffe
 {4,"_$Session$_.AuthenticationError",14},
 {5,3e05e824-5de0-4c32-b0a2-3da0ad008e6c,"",3},
 {4,"_$InfoBase$_.RestoreStart",15},
-{4,"_$InfoBase$_.RestoreFinish",16}
+{4,"_$InfoBase$_.RestoreFinish",16},
+{5,70e437ce-9faa-46e9-ae7c-30e807f4e6cd,"Документ.Покупка",4},
+{4,"_$Data$_.Delete",17}
