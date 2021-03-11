@@ -32,4 +32,9 @@ d9fc3dbe-9782-41cb-ac74-7a9f7b0e5ffe
 {4,"_$InfoBase$_.RestoreStart",15},
 {4,"_$InfoBase$_.RestoreFinish",16},
 {5,70e437ce-9faa-46e9-ae7c-30e807f4e6cd,"Документ.Покупка",4},
-{4,"_$Data$_.Delete",17}
+{4,"_$Data$_.Delete",17},
+{5,be6e3829-d7bb-4790-b9da-8d1205efe394,"",5},
+{5,be6e3829-d7bb-4790-b9da-8d1205efe394,"Справочник.Магазины",5},
+{4,"_$Data$_.Post",18},
+{4,"_$Transaction$_.Rollback",19},
+{4,"_$Data$_.Unpost",20}
