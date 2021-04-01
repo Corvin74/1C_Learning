@@ -37,4 +37,8 @@ d9fc3dbe-9782-41cb-ac74-7a9f7b0e5ffe
 {5,be6e3829-d7bb-4790-b9da-8d1205efe394,"Справочник.Магазины",5},
 {4,"_$Data$_.Post",18},
 {4,"_$Transaction$_.Rollback",19},
-{4,"_$Data$_.Unpost",20}
+{4,"_$Data$_.Unpost",20},
+{2,"pc0098",2},
+{12,
+{0},2},
+{13,2,1}
